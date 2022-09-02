@@ -1,0 +1,1 @@
+{"ast":null,"code":"import LogIn from \"./logIn\";\nexport default LogIn;","map":{"version":3,"names":["LogIn"],"sources":["/home/devendra.kumar/Devendra/learning/mobile-apps/firstApp/src/screens/logIn/index.js"],"sourcesContent":["import LogIn from \"./logIn\";\n\nexport default LogIn;"],"mappings":"AAAA,OAAOA,KAAP;AAEA,eAAeA,KAAf"},"metadata":{},"sourceType":"module"}

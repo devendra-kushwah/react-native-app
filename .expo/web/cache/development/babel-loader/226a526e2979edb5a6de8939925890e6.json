@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Header from \"./header\";\nexport { Header };","map":{"version":3,"names":["Header"],"sources":["/home/devendra.kumar/Devendra/learning/mobile-apps/firstApp/src/components/index.js"],"sourcesContent":["import Header from \"./header\";\n\nexport { Header };"],"mappings":"AAAA,OAAOA,MAAP;AAEA,SAASA,MAAT"},"metadata":{},"sourceType":"module"}

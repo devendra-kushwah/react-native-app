@@ -1,0 +1,1 @@
+{"ast":null,"code":"import List from \"./list\";\nexport default List;","map":{"version":3,"names":["List"],"sources":["/home/devendra.kumar/Devendra/learning/mobile-apps/firstApp/src/screens/list/index.js"],"sourcesContent":["import List from \"./list\";\n\nexport default List;"],"mappings":"AAAA,OAAOA,IAAP;AAEA,eAAeA,IAAf"},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import SignUp from \"./signUp\";\nexport default SignUp;","map":{"version":3,"names":["SignUp"],"sources":["/home/devendra.kumar/Devendra/learning/mobile-apps/firstApp/src/screens/signUp/index.js"],"sourcesContent":["import SignUp from \"./signUp\";\n\nexport default SignUp;"],"mappings":"AAAA,OAAOA,MAAP;AAEA,eAAeA,MAAf"},"metadata":{},"sourceType":"module"}
